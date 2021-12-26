@@ -30,11 +30,11 @@ es la extension del archivo, en el caso que en vuestros bancos no tenga extensio
 
 En la hoja de inicio se encuentra un pequeño paso a paso para visualizar y/o manipular los archivos, en donde:
 
-### 1) Open MB's
+* 1) Open MB's
 
 Se encarga de importar los archivos MB4, MB3, etc...
 
-### 2) Copia MB's
+* 2) Copia MB's
 
 Este procedimiento se encarga de tomar la información de las hojas de "MXX Inicial" y los lleva a las hojas "Valida MXX", esto para que puedan manipular los datos.
 En las hojas validan van a notar dos bloques, al lado izquierdo de la descripción de los IFRS, es donde se realizan los ajustes, estos ajustes se deben realizar 
@@ -42,15 +42,15 @@ en los IFRS de mayor detalle, ya que en lado derecho verán que existen sumatori
 
 Una vez finalizado el ajuste ejecutan el botón corregir totales para que actualice las sumatorias de los IFRS padres.
 
-### 3) Copia MX3
+* 3) Copia MX3
 
 Este procedimiento realiza lo mismo que el anterior, pero para aquellos Bancos que posean sucursales, les recomiendo usar este procedimiento por sucursal que requieran visualizar.
 
-### 4) Normaliza
+* 4) Normaliza
 
 LLeva los datos desde las hojas "Valida MXX" hacia las hoja de "MXX Inicio", para poder preparar la información para el siguiente procedimiento que es el que genera los archivos.
 
-### 5) Genera MB's
+* 5) Genera MB's
 
 Genera los archivos MXX desde la hoja "MXX Inicio", quedan en el mismo directorio pero añadiendo en el nombre "_Final" para que no se pisen los archivos originales.
 
@@ -59,6 +59,6 @@ Genera los archivos MXX desde la hoja "MXX Inicio", quedan en el mismo directori
 
 ## Versiones
 
-### 1.0.0
+* 1.0.0
 
 Primera versión disponible, realizado con el empalme contable de la CMF versión 49591
