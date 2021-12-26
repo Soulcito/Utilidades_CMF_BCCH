@@ -1,2 +1,3 @@
-# Utilidades_CMF_BCCH
-Macros para los archivos normativos de la CMF y BCCH 
+# Utilidades para CMF y BCCH
+
+Este repositorio tiene por el fin poder compartir herramientas para visualizar y analizar los archivos regulatorios de la CMF y BCCH.
