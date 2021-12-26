@@ -13,13 +13,13 @@ que se deben mantener en esa posición.
 
 Los archivos deben estar en la misma carpeta donde se encuentre alojada la macros.
 
-### FORMATO NOMBRE DE ARCHIVO
+* FORMATO NOMBRE DE ARCHIVO
 
 Viene por defecto MXXMMYY, en donde MXX siempre debe ir, lo demás se puede cambiar dependiendo de como se genera los archivos en vuestros bancos,
 por ejemplo en el banco Z se generan como MB21121.dat, en donde MB2 es el nombre de la CMF y 1121 corresponde a mes año (MMYY).
 
 
-### EXTENSION ARCHIVO
+* EXTENSION ARCHIVO
 
 es la extension del archivo, en el caso que en vuestros bancos no tenga extension o tengan otro como .txt, etc.., solo deben cambiar en donde dice ".dat" por ".txt" (sin las comillas)
 
