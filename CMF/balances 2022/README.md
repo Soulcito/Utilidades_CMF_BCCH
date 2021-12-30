@@ -63,23 +63,23 @@ Genera los archivos MXX desde la hoja "MXX Inicio", quedan en el mismo directori
 
 Correccion de suma en los MB para los siguientes item:
 
-* ACTIVOS POR DERECHO A USAR BIENES EN ARRENDAMIENTO / 175000000
-* Otros instrumentos financieros / 123000000
-* PASIVOS FINANCIEROS A COSTO AMORTIZADO / 240000000
-* Obligaciones con bancos / 244000000
-* PATRIMONIO / 300000000
+- ACTIVOS POR DERECHO A USAR BIENES EN ARRENDAMIENTO / 175000000
+- Otros instrumentos financieros / 123000000
+- PASIVOS FINANCIEROS A COSTO AMORTIZADO / 240000000
+- Obligaciones con bancos / 244000000
+- PATRIMONIO / 300000000
 
 
 Correccion de suma en los MR para los siguientes item:
 
-* Otros instrumentos financieros / 411450000
-* Obligaciones con bancos / 412280000
-* Obligaciones con bancos / 416280000
-* RESULTADO FINANCIERO POR DAR DE BAJA ACTIVOS Y PASIVOS FINANCIEROS A COSTO AMORTIZADO Y ACTIVOS FINANCIEROS A VALOR RAZO / 432000000
-* RESULTADO FINANCIERO POR CAMBIOS, REAJUSTES Y COBERTURA CONTABLE DE MONEDA EXTRANJERA / 433000000
-* Resultados por reajustes por tipo de cambio / 433200000
-* Colocaciones comerciales / 433250400
-* GASTO POR PÉRDIDAS CREDITICIAS / 470000000
+- Otros instrumentos financieros / 411450000
+- Obligaciones con bancos / 412280000
+- Obligaciones con bancos / 416280000
+- RESULTADO FINANCIERO POR DAR DE BAJA ACTIVOS Y PASIVOS FINANCIEROS A COSTO AMORTIZADO Y ACTIVOS FINANCIEROS A VALOR RAZO / 432000000
+- RESULTADO FINANCIERO POR CAMBIOS, REAJUSTES Y COBERTURA CONTABLE DE MONEDA EXTRANJERA / 433000000
+- Resultados por reajustes por tipo de cambio / 433200000
+- Colocaciones comerciales / 433250400
+- GASTO POR PÉRDIDAS CREDITICIAS / 470000000
 
 
 * 1.0.0
