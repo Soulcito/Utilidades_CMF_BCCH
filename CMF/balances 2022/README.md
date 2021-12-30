@@ -59,7 +59,7 @@ Genera los archivos MXX desde la hoja "MXX Inicio", quedan en el mismo directori
 
 ## Versiones
 
-* 1.0.1
+## 1.0.1
 
 Correccion de suma en los MB para los siguientes item:
 
@@ -82,6 +82,6 @@ Correccion de suma en los MR para los siguientes item:
 - GASTO POR PÉRDIDAS CREDITICIAS / 470000000
 
 
-* 1.0.0
+# 1.0.0
 
 Primera versión disponible, realizado con el empalme contable de la CMF versión 49591
