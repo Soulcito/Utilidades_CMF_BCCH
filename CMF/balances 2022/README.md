@@ -6,7 +6,8 @@ Macros para la visualizacion y analisis de los balances que se deben informar a 
 
 ## Consideraciones de uso
 
-![image](https://user-images.githubusercontent.com/36990078/147419447-9f2a5bdb-46d1-469e-a281-a2cebb8a30a0.png)
+![image](https://user-images.githubusercontent.com/36990078/148296288-b7535c82-0339-4a0e-9200-55f95c5b0019.png)
+
 
 En la hoja "Inicio", no se deben insertar o eliminar columnas/registros, ya que hay datos como los que se muestran en la imagen superior, 
 que se deben mantener en esa posición.
@@ -23,6 +24,10 @@ por ejemplo en el banco Z se generan como MB21121.dat, en donde MB2 es el nombre
 
 es la extension del archivo, en el caso que en vuestros bancos no tenga extension o tengan otro como .txt, etc.., solo deben cambiar en donde dice ".dat" por ".txt" (sin las comillas)
 
+* CONTADOR PARA SUMA DE TOTALES
+
+Este parametro es usado en el botón "Corrige Totales" de las hojas "Valida MXX", lo que hace es copiar tantas veces hasta el valor del parámetro dado.
+Esto es para los ajustes que se hacen y requieren varios niveles de sumatorias de IFRS padres (efecto cascada).
 
 ## Procedimiento de uso
 
@@ -58,6 +63,12 @@ Genera los archivos MXX desde la hoja "MXX Inicio", quedan en el mismo directori
 
 
 ## Versiones
+
+## 1.0.2
+
+Cuando se hace un ajuste en algún IFRS base, el botón "Corrige Totales" de las hojas "Valida MXX", solo estaba corrigiendo la sumatoria del primer nivel, por lo tanto, para corregir los niveles superiores, se tenía que ejecutar varias veces el botón hasta tener todo OK.
+
+Se añadió un parámetro en la hoja de "Inicio" (Celda AI9 ) que es el valor de cuantos ciclos va copiar el procedimiento. Este valor lo pueden cambiar.
 
 ## 1.0.1
 
