@@ -6,5 +6,5 @@ Este repositorio tiene por el fin poder compartir herramientas para visualizar y
 
 Actualmente se encuentran las macros para:
 
-*Balances 2022
-*Sistemas de Riesgos (R01, R02, R06, R07, R08 y R11)
+- Balances 2022
+- Sistemas de Riesgos (R01, R02, R06, R07, R08 y R11)
