@@ -25,7 +25,7 @@ Es la extension del archivo, en el caso que en vuestros bancos no tenga extensio
 
 ## Procedimiento de uso
 
-![image](https://user-images.githubusercontent.com/36990078/150664977-94f0fa82-6b84-4a4a-909a-70b7a9fcd5b2.png)
+![image](https://user-images.githubusercontent.com/36990078/152620262-4bee3dba-c789-48e5-83fe-4d32c7a7de98.png)
 
 
 En la hoja de inicio se encuentra un pequeño paso a paso para visualizar y/o manipular los archivos, en donde:
