@@ -64,6 +64,10 @@ Genera los archivos MXX desde la hoja "MXX Inicio", quedan en el mismo directori
 
 ## Versiones
 
+## 1.0.3
+
+Se agrega IFRS 845500600 (Pasivos por impuestos diferidos no asociados a diferencias temporales imponibles) en las hojas valida para los MCX
+
 ## 1.0.2
 
 Cuando se hace un ajuste en algún IFRS base, el botón "Corrige Totales" de las hojas "Valida MXX", solo estaba corrigiendo la sumatoria del primer nivel, por lo tanto, para corregir los niveles superiores, se tenía que ejecutar varias veces el botón hasta tener todo OK.
