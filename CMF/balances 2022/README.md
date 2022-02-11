@@ -64,6 +64,10 @@ Genera los archivos MXX desde la hoja "MXX Inicio", quedan en el mismo directori
 
 ## Versiones
 
+## 1.0.4
+
+Correccion suma de total 845250000, se agrega ifrs 845250600 a la suma. Esto en los MCX
+
 ## 1.0.3
 
 Se agrega IFRS 845500600 (Pasivos por impuestos diferidos no asociados a diferencias temporales imponibles) en las hojas valida para los MCX
